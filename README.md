@@ -18,19 +18,19 @@
 # 📸 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/login.png" width="220"/>
-  <img src="assets/screenshots/home.png" width="220"/>
-  <img src="assets/screenshots/aicoach.png" width="220"/>
+  <img src="assets/screenshots/login.png.jpg" alt="Login Screen" width="220"/>
+  <img src="assets/screenshots/home.png.jpg" alt="Home Screen" width="220"/>
+  <img src="assets/screenshots/aicoach.png.jpg" alt="AI Coach" width="220"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/activity.png" width="220"/>
-  <img src="assets/screenshots/progress.png" width="220"/>
-  <img src="assets/screenshots/goals.png" width="220"/>
+  <img src="assets/screenshots/activity.png.jpg" alt="Activity Screen" width="220"/>
+  <img src="assets/screenshots/progress.png.jpg" alt="Progress Screen" width="220"/>
+  <img src="assets/screenshots/goals.png.jpg" alt="Goals Screen" width="220"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/profile.png" width="220"/>
+  <img src="assets/screenshots/profile.png.jpg" alt="Profile Screen" width="220"/>
 </p>
 ---
 
