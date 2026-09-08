@@ -15,22 +15,23 @@
 
 ---
 
-# 📱 App Preview
-
-> **Replace the image paths below with your screenshots.**
+# 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="220"/>
-  <img src="screenshots/workout.png" width="220"/>
-  <img src="screenshots/progress.png" width="220"/>
+  <img src="assets/screenshots/login.png" width="220"/>
+  <img src="assets/screenshots/home.png" width="220"/>
+  <img src="assets/screenshots/aicoach.png" width="220"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/calendar.png" width="220"/>
-  <img src="screenshots/ai_coach.png" width="220"/>
-  <img src="screenshots/profile.png" width="220"/>
+  <img src="assets/screenshots/activity.png" width="220"/>
+  <img src="assets/screenshots/progress.png" width="220"/>
+  <img src="assets/screenshots/goals.png" width="220"/>
 </p>
 
+<p align="center">
+  <img src="assets/screenshots/profile.png" width="220"/>
+</p>
 ---
 
 # 📖 About the Project
@@ -238,7 +239,7 @@ Feel free to fork the repository and submit a Pull Request.
 
 # 📧 Contact
 
-**Raghul**
+**Rahulkrishnan G**
 
 GitHub: https://github.com/rkzzzz008
 
