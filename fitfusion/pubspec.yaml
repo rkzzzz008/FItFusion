@@ -1,0 +1,47 @@
+name: fitfusion
+description: "FitFusion - A production-grade Material 3 Fitness Tracker application built with Flutter, Provider, Firebase, and fl_chart."
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  provider: ^6.1.2
+
+  # Firebase Core & Backend
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.17.0
+
+  # Local Persistence
+  shared_preferences: ^2.2.3
+
+  # Charts & Data Visualization
+  fl_chart: ^0.68.0
+
+  # Rich Animations & Transitions
+  flutter_animate: ^4.5.0
+  confetti: ^0.7.0
+
+  # Typography & UI Kit
+  google_fonts: ^6.2.1
+  percent_indicator: ^4.2.3
+  intl: ^0.19.0
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
